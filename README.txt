@@ -28,7 +28,7 @@
    REFERENCE:
 
        "Hybrid Projection Methods with Recycling for Inverse Problems". 
-            SISC 2020.
+            SIAM Journal on Scientific Computing, 2021.
 
    SOFTWARE LANGUAGE:
 
