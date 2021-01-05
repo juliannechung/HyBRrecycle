@@ -7,7 +7,7 @@
 %   The DEMO codes require the following packages:
 %       RestoreTools by James Nagy
 %             http://www.mathcs.emory.edu/~nagy/RestoreTools/
-%       IRTools by James Nagy, Sivia Gazzola, and Per Christian Hansen
+%       IRTools by James Nagy, Silvia Gazzola, and Per Christian Hansen
 %             https://github.com/jnagy1/IRtools
 %       SpaRSA by Stephen Wright, Robert Nowak, and Mario Figueiredo
 %             https://www.lx.it.pt/~mtf/SpaRSA/
